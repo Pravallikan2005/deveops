@@ -1,1 +1,1 @@
-# deveops
+# devops
